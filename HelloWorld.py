@@ -1,1 +1,1 @@
-print("Hello Python World!")
+print("Name: Dick Smith\n\nAddress: 120E, 87th Street, \n\tNew York 10128.\nPhone: +440-995-5900\nMy College major is Object Oriented Programming System (OOPS)")
